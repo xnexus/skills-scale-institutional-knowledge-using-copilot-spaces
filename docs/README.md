@@ -11,7 +11,7 @@ OctoAcme project delivery follows an iterative lifecycle:
 - **Release and deployment** standardizes pre-release readiness, deployment checklists, post-deploy verification, and rollback planning.
 - **Retrospective and continuous improvement** captures learnings after sprints, releases, and incidents, then converts them into owned action items.
 
-The personas and roles guidance supports every stage by clarifying responsibilities, decision ownership, and communication expectations across project managers, product managers, and developers.
+The personas and roles guidance supports every stage by clarifying responsibilities, decision ownership, and communication expectations across all cross-functional roles including project managers, product managers, technical leads, engineering managers, designers, security, support, and stakeholders.
 
 ## Document Index
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
@@ -22,3 +22,4 @@ The personas and roles guidance supports every stage by clarifying responsibilit
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Role-to-Process Matrix](./octoacme-role-process-matrix.md)
